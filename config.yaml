@@ -1,0 +1,8 @@
+CA: "will.therealpki.com"
+Template: "Please Standup"
+PKI:
+  Organization: "PLEASE"
+  OrganizationalUnit: "STANDUP"
+  Locality: "Saint Joseph"
+  Province: "Missouri"
+  Country: "US"
